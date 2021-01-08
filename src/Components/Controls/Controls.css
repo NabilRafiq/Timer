@@ -11,11 +11,11 @@
 }
 .stopwatch-controls-container button:hover
 {
-    box-shadow: 0 3px 15px 2px rgb(250, 195, 85);
+    box-shadow: 0 5px 20px 3px rgb(255, 170, 0);
     color: black;
 }
 .stopwatch-controls-container button:active
 {
-    box-shadow: 0 3px 15px 2px rgb(250, 195, 85);
+    box-shadow: 0 5px 20px 3px rgb(255, 170, 0);
     color: black;
 }

@@ -15,7 +15,11 @@ function Main() {
     
     return (
         <main>
+              <h2>React-Timer</h2>
+              <hr/>
        <section className="time-container">
+         
+           <br></br>
             <p className="timer-text">{timeArray[0]}</p>
             <span>:</span>
             <p className="timer-text">{timeArray[1]}</p>
