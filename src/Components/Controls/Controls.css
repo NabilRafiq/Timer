@@ -1,0 +1,21 @@
+.stopwatch-controls-container button {
+    margin: 15px;
+    border: none;
+    background-color: #e5ad3d;
+    padding: 3px 12px;
+    font-size: 1.3rem;
+    font-weight: 400;
+    cursor: pointer;
+    transition: 1s;
+    color: rgb(63, 62, 62);
+}
+.stopwatch-controls-container button:hover
+{
+    box-shadow: 0 3px 15px 2px rgb(250, 195, 85);
+    color: black;
+}
+.stopwatch-controls-container button:active
+{
+    box-shadow: 0 3px 15px 2px rgb(250, 195, 85);
+    color: black;
+}
